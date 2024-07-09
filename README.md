@@ -5,7 +5,7 @@ ui component
 ## Installation
 
 ```sh
-npm install react-native-rn-npm-package-example
+npm install git+ssh://git@github.com:olmosmartin/rn-npm-package-example.git
 ```
 
 ## Usage
