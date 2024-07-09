@@ -19,3 +19,11 @@ export function Prueba2() {
     </View>
   );
 }
+
+export function Prueba3() {
+  return (
+    <View>
+      <Text>component testing3</Text>
+    </View>
+  );
+}
