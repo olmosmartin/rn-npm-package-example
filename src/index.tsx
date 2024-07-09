@@ -11,3 +11,11 @@ export function App() {
     </View>
   );
 }
+
+export function Prueba2() {
+  return (
+    <View>
+      <Text>component testing2</Text>
+    </View>
+  );
+}
