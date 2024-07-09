@@ -47,14 +47,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olmosmartin/react-native-rn-npm-package-example.git"
+    "url": "git+https://github.com/olmosmartin/rn-npm-package-example.git"
   },
   "author": "martin olmos <tiincho18@gmail.com> (https://github.com/olmosmartin)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/olmosmartin/react-native-rn-npm-package-example/issues"
+    "url": "https://github.com/olmosmartin/rn-npm-package-example/issues"
   },
-  "homepage": "https://github.com/olmosmartin/react-native-rn-npm-package-example#readme",
+  "homepage": "https://github.com/olmosmartin/rn-npm-package-example#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
